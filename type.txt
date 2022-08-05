@@ -1,1 +1,2 @@
-
+This is me just practising
+some interesting Git work
